@@ -22,7 +22,7 @@ PrintArray(twoDimArray); */
 
 // задача номер 50.
 
-Console.WriteLine("Введите размеры массива");
+ /* Console.WriteLine("Введите размеры массива");
 int m = Convert.ToInt32(Console.ReadLine());
 int n = Convert.ToInt32(Console.ReadLine());
 int[,] array = new int[m, n];
@@ -49,4 +49,5 @@ for (int i = 0; i < array.GetLength(0); i++)
  {
  object c = array.GetValue(a,b);
  Console.WriteLine(c);
- }
+ } */
+
